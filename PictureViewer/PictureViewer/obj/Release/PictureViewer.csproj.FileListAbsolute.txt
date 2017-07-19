@@ -1,0 +1,8 @@
+D:\Documents\Visual Studio 2017\Projects\PictureViewer\PictureViewer\bin\Release\PictureViewer.exe.config
+D:\Documents\Visual Studio 2017\Projects\PictureViewer\PictureViewer\bin\Release\PictureViewer.exe
+D:\Documents\Visual Studio 2017\Projects\PictureViewer\PictureViewer\bin\Release\PictureViewer.pdb
+D:\Documents\Visual Studio 2017\Projects\PictureViewer\PictureViewer\obj\Release\PictureViewer.Form1.resources
+D:\Documents\Visual Studio 2017\Projects\PictureViewer\PictureViewer\obj\Release\PictureViewer.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\PictureViewer\PictureViewer\obj\Release\PictureViewer.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\PictureViewer\PictureViewer\obj\Release\PictureViewer.exe
+D:\Documents\Visual Studio 2017\Projects\PictureViewer\PictureViewer\obj\Release\PictureViewer.pdb
