@@ -58,6 +58,10 @@ namespace PictureViewer
                 // チェックが入っていない場合は、元の画像サイズで表示する
                 pictureBox1.SizeMode = PictureBoxSizeMode.AutoSize;
             }
+        // 画像に対して手書きもしくはコメントボックスを上書きしたい
+
+        // 画像をTwitterに送信したい（TwitterAPI?）
+
         }
     }
 }
