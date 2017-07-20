@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2017\Projects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+D:\Documents\Visual Studio 2017\Projects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+D:\Documents\Visual Studio 2017\Projects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+D:\Documents\Visual Studio 2017\Projects\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Form1.resources
+D:\Documents\Visual Studio 2017\Projects\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+D:\Documents\Visual Studio 2017\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+D:\Documents\Visual Studio 2017\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csprojResolveAssemblyReference.cache
