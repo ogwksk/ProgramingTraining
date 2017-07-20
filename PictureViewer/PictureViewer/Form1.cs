@@ -48,7 +48,7 @@ namespace PictureViewer
                 pictureBox1.Dock = DockStyle.Fill;
 
                 // stretchにチェックが入っている場合、画像をpintureBoxのサイズに引き延ばす
-                pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+                pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             }
             else
             {
